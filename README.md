@@ -21,4 +21,5 @@ To set up the environment, follow these steps:
 
    pip install pandas scikit-learn scipy
 
-   Then Run The Code
+   python house_price_prediction.py
+
